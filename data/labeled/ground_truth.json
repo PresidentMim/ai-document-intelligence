@@ -1,0 +1,536 @@
+{
+  "invoice_01.pdf": {
+    "invoice_number": "INV-1000",
+    "invoice_date": "2026-10-01",
+    "supplier_name": "Acme Supplies Ltd",
+    "customer_name": "Northwind Retail",
+    "subtotal": 75.0,
+    "tax": 7.5,
+    "total": 82.5,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget A",
+        "quantity": 2,
+        "unit_price": 25.0,
+        "amount": 50.0
+      },
+      {
+        "description": "Cable set",
+        "quantity": 2,
+        "unit_price": 12.5,
+        "amount": 25.0
+      }
+    ]
+  },
+  "invoice_02.pdf": {
+    "invoice_number": "INV-1001",
+    "invoice_date": "2026-10-02",
+    "supplier_name": "Globex Trading Co",
+    "customer_name": "Wayne Enterprises",
+    "subtotal": 775.0,
+    "tax": 77.5,
+    "total": 852.5,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Monitor 24in",
+        "quantity": 5,
+        "unit_price": 150.0,
+        "amount": 750.0
+      },
+      {
+        "description": "Widget A",
+        "quantity": 1,
+        "unit_price": 25.0,
+        "amount": 25.0
+      }
+    ]
+  },
+  "invoice_03.pdf": {
+    "invoice_number": "INV-1002",
+    "invoice_date": "2026-10-03",
+    "supplier_name": "Initech Office Goods",
+    "customer_name": "Hooli Corp",
+    "subtotal": 390.0,
+    "tax": 39.0,
+    "total": 429.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget A",
+        "quantity": 2,
+        "unit_price": 25.0,
+        "amount": 50.0
+      },
+      {
+        "description": "Monitor 24in",
+        "quantity": 2,
+        "unit_price": 150.0,
+        "amount": 300.0
+      },
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 5,
+        "unit_price": 8.0,
+        "amount": 40.0
+      }
+    ]
+  },
+  "invoice_04.pdf": {
+    "invoice_number": "INV-1003",
+    "invoice_date": "2026-10-04",
+    "supplier_name": "Umbrella Logistics",
+    "customer_name": "Pied Piper Inc",
+    "subtotal": 200.0,
+    "tax": 20.0,
+    "total": 220.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 5,
+        "unit_price": 8.0,
+        "amount": 40.0
+      },
+      {
+        "description": "Widget B",
+        "quantity": 4,
+        "unit_price": 40.0,
+        "amount": 160.0
+      }
+    ]
+  },
+  "invoice_05.pdf": {
+    "invoice_number": "INV-1004",
+    "invoice_date": "2026-10-05",
+    "supplier_name": "Stark Industrial",
+    "customer_name": "Massive Dynamic",
+    "subtotal": 368.0,
+    "tax": 36.8,
+    "total": 404.8,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      },
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 1,
+        "unit_price": 8.0,
+        "amount": 8.0
+      }
+    ]
+  },
+  "invoice_06.pdf": {
+    "invoice_number": "INV-1005",
+    "invoice_date": "2026-10-06",
+    "supplier_name": "Acme Supplies Ltd",
+    "customer_name": "Northwind Retail",
+    "subtotal": 810.0,
+    "tax": 81.0,
+    "total": 891.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Monitor 24in",
+        "quantity": 3,
+        "unit_price": 150.0,
+        "amount": 450.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      }
+    ]
+  },
+  "invoice_07.pdf": {
+    "invoice_number": "INV-1006",
+    "invoice_date": "2026-10-07",
+    "supplier_name": "Globex Trading Co",
+    "customer_name": "Wayne Enterprises",
+    "subtotal": 52.5,
+    "tax": 5.25,
+    "total": 57.75,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget B",
+        "quantity": 1,
+        "unit_price": 40.0,
+        "amount": 40.0
+      },
+      {
+        "description": "Cable set",
+        "quantity": 1,
+        "unit_price": 12.5,
+        "amount": 12.5
+      }
+    ]
+  },
+  "invoice_08.pdf": {
+    "invoice_number": "INV-1007",
+    "invoice_date": "2026-10-08",
+    "supplier_name": "Initech Office Goods",
+    "customer_name": "Hooli Corp",
+    "subtotal": 170.5,
+    "tax": 17.05,
+    "total": 187.55,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget A",
+        "quantity": 5,
+        "unit_price": 25.0,
+        "amount": 125.0
+      },
+      {
+        "description": "Cable set",
+        "quantity": 3,
+        "unit_price": 12.5,
+        "amount": 37.5
+      },
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 1,
+        "unit_price": 8.0,
+        "amount": 8.0
+      }
+    ]
+  },
+  "invoice_09_scanned.pdf": {
+    "invoice_number": "INV-1008",
+    "invoice_date": "2026-10-09",
+    "supplier_name": "Umbrella Logistics",
+    "customer_name": "Pied Piper Inc",
+    "subtotal": 493.0,
+    "tax": 49.3,
+    "total": 542.3,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 1,
+        "unit_price": 8.0,
+        "amount": 8.0
+      },
+      {
+        "description": "Widget A",
+        "quantity": 5,
+        "unit_price": 25.0,
+        "amount": 125.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      }
+    ]
+  },
+  "invoice_10_scanned.pdf": {
+    "invoice_number": "INV-1009",
+    "invoice_date": "2026-10-10",
+    "supplier_name": "Stark Industrial",
+    "customer_name": "Massive Dynamic",
+    "subtotal": 163.0,
+    "tax": 16.3,
+    "total": 179.3,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 1,
+        "unit_price": 8.0,
+        "amount": 8.0
+      },
+      {
+        "description": "Widget B",
+        "quantity": 2,
+        "unit_price": 40.0,
+        "amount": 80.0
+      },
+      {
+        "description": "Widget A",
+        "quantity": 3,
+        "unit_price": 25.0,
+        "amount": 75.0
+      }
+    ]
+  },
+  "invoice_11_scanned.pdf": {
+    "invoice_number": "INV-1010",
+    "invoice_date": "2026-10-11",
+    "supplier_name": "Acme Supplies Ltd",
+    "customer_name": "Northwind Retail",
+    "subtotal": 235.0,
+    "tax": 23.5,
+    "total": 258.5,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget B",
+        "quantity": 4,
+        "unit_price": 40.0,
+        "amount": 160.0
+      },
+      {
+        "description": "Widget A",
+        "quantity": 3,
+        "unit_price": 25.0,
+        "amount": 75.0
+      }
+    ]
+  },
+  "invoice_12_scanned.pdf": {
+    "invoice_number": "INV-1011",
+    "invoice_date": "2026-10-12",
+    "supplier_name": "Globex Trading Co",
+    "customer_name": "Wayne Enterprises",
+    "subtotal": 567.5,
+    "tax": 56.75,
+    "total": 624.25,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Monitor 24in",
+        "quantity": 3,
+        "unit_price": 150.0,
+        "amount": 450.0
+      },
+      {
+        "description": "Cable set",
+        "quantity": 3,
+        "unit_price": 12.5,
+        "amount": 37.5
+      },
+      {
+        "description": "Widget B",
+        "quantity": 2,
+        "unit_price": 40.0,
+        "amount": 80.0
+      }
+    ]
+  },
+  "invoice_13.png": {
+    "invoice_number": "INV-1012",
+    "invoice_date": "2026-10-13",
+    "supplier_name": "Initech Office Goods",
+    "customer_name": "Hooli Corp",
+    "subtotal": 880.0,
+    "tax": 88.0,
+    "total": 968.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Monitor 24in",
+        "quantity": 5,
+        "unit_price": 150.0,
+        "amount": 750.0
+      },
+      {
+        "description": "Widget A",
+        "quantity": 2,
+        "unit_price": 25.0,
+        "amount": 50.0
+      },
+      {
+        "description": "Widget B",
+        "quantity": 2,
+        "unit_price": 40.0,
+        "amount": 80.0
+      }
+    ]
+  },
+  "invoice_14.png": {
+    "invoice_number": "INV-1013",
+    "invoice_date": "2026-10-14",
+    "supplier_name": "Umbrella Logistics",
+    "customer_name": "Pied Piper Inc",
+    "subtotal": 452.5,
+    "tax": 45.25,
+    "total": 497.75,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      },
+      {
+        "description": "Cable set",
+        "quantity": 1,
+        "unit_price": 12.5,
+        "amount": 12.5
+      },
+      {
+        "description": "Widget B",
+        "quantity": 2,
+        "unit_price": 40.0,
+        "amount": 80.0
+      }
+    ]
+  },
+  "invoice_15.png": {
+    "invoice_number": "INV-1014",
+    "invoice_date": "2026-10-15",
+    "supplier_name": "Stark Industrial",
+    "customer_name": "Massive Dynamic",
+    "subtotal": 157.5,
+    "tax": 15.75,
+    "total": 173.25,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Cable set",
+        "quantity": 3,
+        "unit_price": 12.5,
+        "amount": 37.5
+      },
+      {
+        "description": "Office chair",
+        "quantity": 1,
+        "unit_price": 120.0,
+        "amount": 120.0
+      }
+    ]
+  },
+  "invoice_16.png": {
+    "invoice_number": "INV-1015",
+    "invoice_date": "2026-10-16",
+    "supplier_name": "Acme Supplies Ltd",
+    "customer_name": "Northwind Retail",
+    "subtotal": 66.0,
+    "tax": 6.6,
+    "total": 72.6,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 2,
+        "unit_price": 8.0,
+        "amount": 16.0
+      },
+      {
+        "description": "Cable set",
+        "quantity": 4,
+        "unit_price": 12.5,
+        "amount": 50.0
+      }
+    ]
+  },
+  "invoice_17.xlsx": {
+    "invoice_number": "INV-1016",
+    "invoice_date": "2026-10-17",
+    "supplier_name": "Globex Trading Co",
+    "customer_name": "Wayne Enterprises",
+    "subtotal": 770.0,
+    "tax": 77.0,
+    "total": 847.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Monitor 24in",
+        "quantity": 3,
+        "unit_price": 150.0,
+        "amount": 450.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 2,
+        "unit_price": 120.0,
+        "amount": 240.0
+      },
+      {
+        "description": "Widget B",
+        "quantity": 2,
+        "unit_price": 40.0,
+        "amount": 80.0
+      }
+    ]
+  },
+  "invoice_18.xlsx": {
+    "invoice_number": "INV-1017",
+    "invoice_date": "2026-10-18",
+    "supplier_name": "Initech Office Goods",
+    "customer_name": "Hooli Corp",
+    "subtotal": 1142.0,
+    "tax": 114.2,
+    "total": 1306.2,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Monitor 24in",
+        "quantity": 5,
+        "unit_price": 150.0,
+        "amount": 750.0
+      },
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 4,
+        "unit_price": 8.0,
+        "amount": 32.0
+      },
+      {
+        "description": "Office chair",
+        "quantity": 3,
+        "unit_price": 120.0,
+        "amount": 360.0
+      }
+    ]
+  },
+  "invoice_19.csv": {
+    "invoice_number": "INV-1018",
+    "invoice_date": "2026-10-19",
+    "supplier_name": "Umbrella Logistics",
+    "customer_name": "Pied Piper Inc",
+    "subtotal": 168.0,
+    "tax": 16.8,
+    "total": 184.8,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget B",
+        "quantity": 4,
+        "unit_price": 40.0,
+        "amount": 160.0
+      },
+      {
+        "description": "Printer paper (ream)",
+        "quantity": 1,
+        "unit_price": 8.0,
+        "amount": 8.0
+      }
+    ]
+  },
+  "invoice_20.csv": {
+    "invoice_number": "INV-1019",
+    "invoice_date": "2026-10-20",
+    "supplier_name": "Stark Industrial",
+    "customer_name": "Massive Dynamic",
+    "subtotal": 210.0,
+    "tax": 21.0,
+    "total": 231.0,
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Widget A",
+        "quantity": 2,
+        "unit_price": 25.0,
+        "amount": 50.0
+      },
+      {
+        "description": "Widget B",
+        "quantity": 4,
+        "unit_price": 40.0,
+        "amount": 160.0
+      }
+    ]
+  }
+}

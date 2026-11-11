@@ -1,0 +1,3 @@
+invoice_number,invoice_date,supplier,customer,description,quantity,unit_price,amount,subtotal,tax,total,currency
+INV-1019,2026-10-20,Stark Industrial,Massive Dynamic,Widget A,2,25.0,50.0,210.0,21.0,231.0,USD
+INV-1019,2026-10-20,Stark Industrial,Massive Dynamic,Widget B,4,40.0,160.0,210.0,21.0,231.0,USD

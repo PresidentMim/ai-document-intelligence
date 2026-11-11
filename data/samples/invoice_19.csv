@@ -1,0 +1,3 @@
+invoice_number,invoice_date,supplier,customer,description,quantity,unit_price,amount,subtotal,tax,total,currency
+,2026-10-19,Umbrella Logistics,Pied Piper Inc,Widget B,4,40.0,160.0,168.0,16.8,184.8,USD
+,2026-10-19,Umbrella Logistics,Pied Piper Inc,Printer paper (ream),1,8.0,8.0,168.0,16.8,184.8,USD

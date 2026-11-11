@@ -1,0 +1,143 @@
+{
+  "documents": 20,
+  "fully_correct_documents": 19,
+  "document_success_rate": 0.95,
+  "failed_documents": 0,
+  "failure_rate": 0.0,
+  "mean_seconds_per_document": 3.07,
+  "total_seconds": 61.42,
+  "per_field_accuracy": {
+    "invoice_number": 0.95,
+    "invoice_date": 1.0,
+    "supplier_name": 1.0,
+    "customer_name": 1.0,
+    "subtotal": 1.0,
+    "tax": 1.0,
+    "total": 1.0,
+    "currency": 1.0
+  },
+  "mean_field_accuracy": 0.994,
+  "rows": [
+    {
+      "file": "invoice_01.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.03
+    },
+    {
+      "file": "invoice_02.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_03.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_04.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_05.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_06.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_07.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_08.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_09_scanned.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 11.34
+    },
+    {
+      "file": "invoice_10_scanned.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 11.8
+    },
+    {
+      "file": "invoice_11_scanned.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 8.83
+    },
+    {
+      "file": "invoice_12_scanned.pdf",
+      "type": ".pdf",
+      "fields_correct": "8/8",
+      "seconds": 10.66
+    },
+    {
+      "file": "invoice_13.png",
+      "type": ".png",
+      "fields_correct": "8/8",
+      "seconds": 4.5
+    },
+    {
+      "file": "invoice_14.png",
+      "type": ".png",
+      "fields_correct": "8/8",
+      "seconds": 5.33
+    },
+    {
+      "file": "invoice_15.png",
+      "type": ".png",
+      "fields_correct": "8/8",
+      "seconds": 4.17
+    },
+    {
+      "file": "invoice_16.png",
+      "type": ".png",
+      "fields_correct": "8/8",
+      "seconds": 4.2
+    },
+    {
+      "file": "invoice_17.xlsx",
+      "type": ".xlsx",
+      "fields_correct": "8/8",
+      "seconds": 0.52
+    },
+    {
+      "file": "invoice_18.xlsx",
+      "type": ".xlsx",
+      "fields_correct": "8/8",
+      "seconds": 0.02
+    },
+    {
+      "file": "invoice_19.csv",
+      "type": ".csv",
+      "fields_correct": "7/8",
+      "seconds": 0.0
+    },
+    {
+      "file": "invoice_20.csv",
+      "type": ".csv",
+      "fields_correct": "8/8",
+      "seconds": 0.0
+    }
+  ],
+  "failures": []
+}
